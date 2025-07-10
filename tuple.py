@@ -1,0 +1,6 @@
+a = (1,2,3,4,5,"Ganesha","Shiv")
+print(type(a))
+no = a.count(3)
+print(no)
+i = a.index(5)
+print(i)
